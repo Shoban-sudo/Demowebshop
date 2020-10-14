@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Demo Webshop" verbose="2">
+	<test name="Webshop Test">
+		<parameter name="username" value="atest@gmail.com">
+			<parameter name="password" value="123456">
+			</parameter>
+		</parameter>
+		<classes>
+			<class name="testcase.Demowebshop"></class>
+		</classes>
+	</test>
+</suite>
+
